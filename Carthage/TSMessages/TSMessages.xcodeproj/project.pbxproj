@@ -26,15 +26,15 @@
 		E15F201F1B79F6B2003A3348 /* NotificationButtonBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = E15F20051B79F6B2003A3348 /* NotificationButtonBackground.png */; };
 		E15F20201B79F6B2003A3348 /* NotificationButtonBackground@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E15F20061B79F6B2003A3348 /* NotificationButtonBackground@2x.png */; };
 		E15F20211B79F6B2003A3348 /* TSMessagesDefaultDesign.json in Resources */ = {isa = PBXBuildFile; fileRef = E15F20071B79F6B2003A3348 /* TSMessagesDefaultDesign.json */; };
-		E15F20231B79F6B2003A3348 /* TSBlurView.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F200A1B79F6B2003A3348 /* TSBlurView.h */; };
+		E15F20231B79F6B2003A3348 /* TSBlurView.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F200A1B79F6B2003A3348 /* TSBlurView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E15F20241B79F6B2003A3348 /* TSBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = E15F200B1B79F6B2003A3348 /* TSBlurView.m */; };
-		E15F20251B79F6B2003A3348 /* TSMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F200C1B79F6B2003A3348 /* TSMessage.h */; };
+		E15F20251B79F6B2003A3348 /* TSMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F200C1B79F6B2003A3348 /* TSMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E15F20261B79F6B2003A3348 /* TSMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = E15F200D1B79F6B2003A3348 /* TSMessage.m */; };
-		E15F20271B79F6B2003A3348 /* TSMessageView.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F200E1B79F6B2003A3348 /* TSMessageView.h */; };
+		E15F20271B79F6B2003A3348 /* TSMessageView.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F200E1B79F6B2003A3348 /* TSMessageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E15F20281B79F6B2003A3348 /* TSMessageView.m in Sources */ = {isa = PBXBuildFile; fileRef = E15F200F1B79F6B2003A3348 /* TSMessageView.m */; };
 		E15F202B1B79F6C2003A3348 /* HexColors.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F20291B79F6C2003A3348 /* HexColors.h */; };
 		E15F202C1B79F6C2003A3348 /* HexColors.m in Sources */ = {isa = PBXBuildFile; fileRef = E15F202A1B79F6C2003A3348 /* HexColors.m */; };
-		E15F20301B79F7BD003A3348 /* TSMessages.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F202F1B79F7BD003A3348 /* TSMessages.h */; };
+		E15F20301B79F7BD003A3348 /* TSMessages.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F202F1B79F7BD003A3348 /* TSMessages.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
