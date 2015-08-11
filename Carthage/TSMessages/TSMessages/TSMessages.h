@@ -7,6 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "TSMessage.h"
-#import "TSMessageView.h"
-#import "TSBlurView.h"
+
+//! Project version number for TSMessages.
+FOUNDATION_EXPORT double TSMessagesVersionNumber;
+
+//! Project version string for TSMessages.
+FOUNDATION_EXPORT const unsigned char TSMessagesVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <TSMessages/PublicHeader.h>
+
+#import <TSMessages/TSMessage.h>
+#import <TSMessages/TSMessageView.h>
+#import <TSMessages/TSBlurView.h>
