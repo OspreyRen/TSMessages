@@ -33,6 +33,12 @@
 		E15F202B1B79F6C2003A3348 /* HexColors.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F20291B79F6C2003A3348 /* HexColors.h */; };
 		E15F202C1B79F6C2003A3348 /* HexColors.m in Sources */ = {isa = PBXBuildFile; fileRef = E15F202A1B79F6C2003A3348 /* HexColors.m */; };
 		E15F20301B79F7BD003A3348 /* TSMessages.h in Headers */ = {isa = PBXBuildFile; fileRef = E15F202F1B79F7BD003A3348 /* TSMessages.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E1E213601B85C43600AD9F88 /* pubu_error_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E1E2135A1B85C43600AD9F88 /* pubu_error_icon.png */; };
+		E1E213611B85C43600AD9F88 /* pubu_error_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E1E2135B1B85C43600AD9F88 /* pubu_error_icon@2x.png */; };
+		E1E213621B85C43600AD9F88 /* pubu_error_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E1E2135C1B85C43600AD9F88 /* pubu_error_icon@3x.png */; };
+		E1E213631B85C43600AD9F88 /* pubu_success_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E1E2135D1B85C43600AD9F88 /* pubu_success_icon.png */; };
+		E1E213641B85C43600AD9F88 /* pubu_success_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E1E2135E1B85C43600AD9F88 /* pubu_success_icon@2x.png */; };
+		E1E213651B85C43600AD9F88 /* pubu_success_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E1E2135F1B85C43600AD9F88 /* pubu_success_icon@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +70,12 @@
 		E15F20291B79F6C2003A3348 /* HexColors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HexColors.h; path = ../../Submodules/HexColors/Classes/HexColors.h; sourceTree = "<group>"; };
 		E15F202A1B79F6C2003A3348 /* HexColors.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HexColors.m; path = ../../Submodules/HexColors/Classes/HexColors.m; sourceTree = "<group>"; };
 		E15F202F1B79F7BD003A3348 /* TSMessages.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSMessages.h; sourceTree = "<group>"; };
+		E1E2135A1B85C43600AD9F88 /* pubu_error_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pubu_error_icon.png; sourceTree = "<group>"; };
+		E1E2135B1B85C43600AD9F88 /* pubu_error_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pubu_error_icon@2x.png"; sourceTree = "<group>"; };
+		E1E2135C1B85C43600AD9F88 /* pubu_error_icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pubu_error_icon@3x.png"; sourceTree = "<group>"; };
+		E1E2135D1B85C43600AD9F88 /* pubu_success_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pubu_success_icon.png; sourceTree = "<group>"; };
+		E1E2135E1B85C43600AD9F88 /* pubu_success_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pubu_success_icon@2x.png"; sourceTree = "<group>"; };
+		E1E2135F1B85C43600AD9F88 /* pubu_success_icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pubu_success_icon@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +129,12 @@
 		E15F1FF51B79F6B2003A3348 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				E1E2135A1B85C43600AD9F88 /* pubu_error_icon.png */,
+				E1E2135B1B85C43600AD9F88 /* pubu_error_icon@2x.png */,
+				E1E2135C1B85C43600AD9F88 /* pubu_error_icon@3x.png */,
+				E1E2135D1B85C43600AD9F88 /* pubu_success_icon.png */,
+				E1E2135E1B85C43600AD9F88 /* pubu_success_icon@2x.png */,
+				E1E2135F1B85C43600AD9F88 /* pubu_success_icon@3x.png */,
 				E15F1FF71B79F6B2003A3348 /* NotificationBackgroundError.png */,
 				E15F1FF81B79F6B2003A3348 /* NotificationBackgroundError@2x.png */,
 				E15F1FF91B79F6B2003A3348 /* NotificationBackgroundErrorIcon.png */,
@@ -228,18 +246,24 @@
 				E15F20181B79F6B2003A3348 /* NotificationBackgroundSuccess@2x.png in Resources */,
 				E15F20131B79F6B2003A3348 /* NotificationBackgroundErrorIcon.png in Resources */,
 				E15F20161B79F6B2003A3348 /* NotificationBackgroundMessage@2x.png in Resources */,
+				E1E213631B85C43600AD9F88 /* pubu_success_icon.png in Resources */,
 				E15F201A1B79F6B2003A3348 /* NotificationBackgroundSuccessIcon@2x.png in Resources */,
 				E15F20151B79F6B2003A3348 /* NotificationBackgroundMessage.png in Resources */,
+				E1E213621B85C43600AD9F88 /* pubu_error_icon@3x.png in Resources */,
 				E15F20191B79F6B2003A3348 /* NotificationBackgroundSuccessIcon.png in Resources */,
 				E15F20171B79F6B2003A3348 /* NotificationBackgroundSuccess.png in Resources */,
 				E15F201C1B79F6B2003A3348 /* NotificationBackgroundWarning@2x.png in Resources */,
 				E15F20121B79F6B2003A3348 /* NotificationBackgroundError@2x.png in Resources */,
 				E15F20201B79F6B2003A3348 /* NotificationButtonBackground@2x.png in Resources */,
 				E15F201D1B79F6B2003A3348 /* NotificationBackgroundWarningIcon.png in Resources */,
+				E1E213601B85C43600AD9F88 /* pubu_error_icon.png in Resources */,
 				E15F20141B79F6B2003A3348 /* NotificationBackgroundErrorIcon@2x.png in Resources */,
 				E15F201F1B79F6B2003A3348 /* NotificationButtonBackground.png in Resources */,
 				E15F201E1B79F6B2003A3348 /* NotificationBackgroundWarningIcon@2x.png in Resources */,
+				E1E213611B85C43600AD9F88 /* pubu_error_icon@2x.png in Resources */,
 				E15F20111B79F6B2003A3348 /* NotificationBackgroundError.png in Resources */,
+				E1E213641B85C43600AD9F88 /* pubu_success_icon@2x.png in Resources */,
+				E1E213651B85C43600AD9F88 /* pubu_success_icon@3x.png in Resources */,
 				E15F20211B79F6B2003A3348 /* TSMessagesDefaultDesign.json in Resources */,
 				E15F201B1B79F6B2003A3348 /* NotificationBackgroundWarning.png in Resources */,
 			);

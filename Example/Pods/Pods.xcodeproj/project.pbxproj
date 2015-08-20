@@ -415,6 +415,12 @@
 		D9801977CA9054250BF1A14C /* EXPBackwardCompatibility.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = EXPBackwardCompatibility.m; path = src/EXPBackwardCompatibility.m; sourceTree = "<group>"; };
 		DC335DB5051B48E9B9322C72 /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0059EB22A88A0D2414821AB /* Pods-TSMessages-HexColors-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TSMessages-HexColors-dummy.m"; sourceTree = "<group>"; };
+		E1E213541B85C3DF00AD9F88 /* pubu_error_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pubu_error_icon.png; sourceTree = "<group>"; };
+		E1E213551B85C3DF00AD9F88 /* pubu_error_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pubu_error_icon@2x.png"; sourceTree = "<group>"; };
+		E1E213561B85C3DF00AD9F88 /* pubu_error_icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pubu_error_icon@3x.png"; sourceTree = "<group>"; };
+		E1E213571B85C3DF00AD9F88 /* pubu_success_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pubu_success_icon.png; sourceTree = "<group>"; };
+		E1E213581B85C3DF00AD9F88 /* pubu_success_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pubu_success_icon@2x.png"; sourceTree = "<group>"; };
+		E1E213591B85C3DF00AD9F88 /* pubu_success_icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pubu_success_icon@3x.png"; sourceTree = "<group>"; };
 		E1FCB3A9D70975F7D8EC7585 /* Pods-Tests-HexColors-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-Tests-HexColors-dummy.m"; path = "../Pods-Tests-HexColors/Pods-Tests-HexColors-dummy.m"; sourceTree = "<group>"; };
 		E2B636CB92A9D2E9B5D88CED /* EXPMatchers+notify.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+notify.h"; path = "src/matchers/EXPMatchers+notify.h"; sourceTree = "<group>"; };
 		E39E8210EAEFB6955896F4AC /* Pods-TSMessages-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TSMessages-resources.sh"; sourceTree = "<group>"; };
@@ -615,6 +621,12 @@
 		67B5524F68FC2CEFEAA46DD3 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				E1E213541B85C3DF00AD9F88 /* pubu_error_icon.png */,
+				E1E213551B85C3DF00AD9F88 /* pubu_error_icon@2x.png */,
+				E1E213561B85C3DF00AD9F88 /* pubu_error_icon@3x.png */,
+				E1E213571B85C3DF00AD9F88 /* pubu_success_icon.png */,
+				E1E213581B85C3DF00AD9F88 /* pubu_success_icon@2x.png */,
+				E1E213591B85C3DF00AD9F88 /* pubu_success_icon@3x.png */,
 				43BC8EFBE90731E0E767367F /* NotificationBackgroundError.png */,
 				8BE4A26AB87CC0D98AE1A132 /* NotificationBackgroundError@2x.png */,
 				0F2BB01B979087CC36EA0E04 /* NotificationBackgroundErrorIcon.png */,
